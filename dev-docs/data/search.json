@@ -1,1 +1,1 @@
-{"list":[{"title":"foo","link":"<a href=\"global.html#foo\">foo</a>","description":"Foo!"},{"title":"fooDev","link":"<a href=\"global.html#fooDev\">fooDev</a>","description":"FooDev - added in dev branch!"}]}
+{"list":[{"title":"foo","link":"<a href=\"global.html#foo\">foo</a>","description":"Foo!"},{"title":"fooDev","link":"<a href=\"global.html#fooDev\">fooDev</a>","description":"FooDev - added in dev branch!"},{"title":"fooNewFeature","link":"<a href=\"global.html#fooNewFeature\">fooNewFeature</a>","description":"FooNewFeature - added in new-feature branch!"}]}
