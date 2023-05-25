@@ -1,4 +1,4 @@
-# CI_CD_tutorial2
+# CI_CD_tutorial2 repository
 Testing CI/CD implementation
 
 Requirements for this to work:
