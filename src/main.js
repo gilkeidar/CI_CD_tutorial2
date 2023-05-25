@@ -22,12 +22,11 @@ function fooNewFeature () {
 /**
  * BarDev - added in dev branch!
  */
-function barDev() {
-    console.log("bar dev!");
+function barDev () {
+  console.log('bar dev!')
 }
 
 foo()
 fooDev()
 fooNewFeature()
 barDev()
-
