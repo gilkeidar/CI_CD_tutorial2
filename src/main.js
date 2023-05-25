@@ -29,4 +29,5 @@ function barDev() {
 foo()
 fooDev()
 fooNewFeature()
-barDev();
+barDev()
+
