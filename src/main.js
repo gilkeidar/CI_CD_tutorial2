@@ -19,6 +19,14 @@ function fooNewFeature () {
   console.log('foo new feature!')
 }
 
+/**
+ * BarDev - added in dev branch!
+ */
+function barDev () {
+  console.log('bar dev!')
+}
+
 foo()
 fooDev()
 fooNewFeature()
+barDev()
