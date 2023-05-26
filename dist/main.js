@@ -1,1 +1,1 @@
-function foo(){console.log("foo!")}function fooDev(){console.log("foo dev!")}function fooNewFeature(){console.log("foo new feature!")}foo(),fooDev(),fooNewFeature();
+function foo(){console.log("foo!")}function fooDev(){console.log("foo dev!")}function fooNewFeature(){console.log("foo new feature!")}function barDev(){console.log("bar dev!")}foo(),fooDev(),fooNewFeature(),barDev();
